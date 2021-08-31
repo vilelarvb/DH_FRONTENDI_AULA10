@@ -1,0 +1,39 @@
+body {
+    background-color: #434343;
+    background-image: url(https://images.hdqwalls.com/download/miles-morales-pixel-art-t5-1280x720.jpg)
+}
+
+.media-picture { 
+    background-image: url(https://images.hdqwalls.com/download/miles-morales-pixel-art-t5-1280x720.jpg);
+    width: auto;
+    height: 400px;
+    background-size: contain;
+    background-position: top;
+    margin: 2%;
+    border: 12px solid rgb(40, 32, 192);
+    padding-top: 120px;
+    border-radius: 100px 100px 100px 100px;
+    
+}
+
+h1 {
+    color: #fff4ff;
+    font-size: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: #fff4ff;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.botaobolado {
+    position: absolute;
+    bottom: 10px;
+    width: 8%;
+    border: 3px solid #001dfa;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
